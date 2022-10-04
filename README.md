@@ -2,6 +2,8 @@
 
 This repository provides codes to reproduce the work in [TranstoryXL: Tell Stories from Image Streams], which serves as course COMP0084 Statisitical Natural Language Processing's final project of Team 33: Junyu Mao, Tianji Liu, Jiaqi Wang, Hengjia Li (all contribute equally) at UCL. 
 
+The report can be found [here](report.pdf).
+
 ![Architecture of GLocal Attention Cascading Network](misc/TranstoryXL.png)
 
 <br>
